@@ -70,6 +70,6 @@ This project demonstrates the effectiveness of automation in inventory managemen
 4. **User-Friendly Interface**: Developed a user-friendly interface in Jupyter Notebook, making it easy for users to execute and manage the program.
 
 ## Notion Portfolio Page
-- [Notion Portfolio Page Link](#) (Replace with actual link)
+- [[Notion Portfolio Page Link](https://magic-taleggio-e52.notion.site/Portfolio-705d90d52e4e451488fb20e3d6653d3b)](#) (Replace with actual link)
 
 
